@@ -10,3 +10,4 @@
 1. This overlay is for recording with chat invisible by changing chat opacity to 0 or chat scale to 0 in chat settings. (Do not click hide chat)
 2. When recording with OBS the chat will stay invisible while you can see it with the overlay.
 3. It should work for all Minecraft versions
+4. Type -clear in chat to clear the overlay on servers. (On Hypixel type /f c)
